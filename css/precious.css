@@ -1,0 +1,10 @@
+.body{margin:0;padding:0;  }
+
+.inner{
+
+    position:relative; width:"90px";
+    height:"50vh"
+}
+.inner img{width:"100px" }
+.mid{color:red; position: absolute;  width: "100px" ; text-align: "center"; font-size: "6rem";}
+.mid{top: "50px"}
